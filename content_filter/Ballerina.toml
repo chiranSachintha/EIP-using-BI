@@ -1,0 +1,4 @@
+[package]
+org = "chirans"
+name = "content_filter"
+version = "0.1.0"

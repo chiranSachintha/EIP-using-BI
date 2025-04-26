@@ -1,0 +1,4 @@
+[package]
+org = "chirans"
+name = "splitter"
+version = "0.1.0"
