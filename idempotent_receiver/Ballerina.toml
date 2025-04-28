@@ -1,0 +1,4 @@
+[package]
+org = "chirans"
+name = "idempotent_receiver"
+version = "0.1.0"
